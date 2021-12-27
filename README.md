@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Daniel. I use @DanielsSim for a storage place for simulation code and late-night thoughts that I just have to get out of my code.
+- 👀 I’m interested in multibody dynamics, statistics, philosophy of science and more. 
+- 📫 I have a blog at http://hmbd.wordpress.com but I'm slowly shifting content to https://danielssim.github.com/site
